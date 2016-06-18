@@ -47,7 +47,7 @@ There was a large set of consonants. The major contrasts were in voicing and glo
 |                    |        |          |         |       |        |         |
 | fricatives:        | f v    | s z      |         | c 3   | x      |         |
 |                    |        |          |         |       |        |         |
-| approximants:      |        | l r      | y       | w     |        |         |
+| approximants:      |        | l r      | j       | w     |        |         |
 +--------------------+--------+----------+---------+-------+--------+---------+
 ```
 
